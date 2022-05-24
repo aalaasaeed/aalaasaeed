@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Saeed</h1>
-<h3 align="center">I graduated from Cairo University's Faculty of Computer and Artificial Intelligence with a major in information systems and a minor in decision support and operational research systems, I started learning about machine learning and data science while I was in my fourth year of college, and I was very interested in these fields, so after getting my bachelor's degree, I joined the ITI track AI</h3>
+<h3 align="center">I graduated from Cairo University's Faculty of Computer and Artificial Intelligence with a major in information systems and a minor in decision support and operational research systems,after getting my bachelor's degree, I joined the ITI track Artificial Intelligence and Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
