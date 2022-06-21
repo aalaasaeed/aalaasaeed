@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Saeed</h1>
-<h3 align="center">A goal-driven and highly adaptive machine learning engineer with an understanding of AI and data science concepts. I am eager to learn and contribute to machine learning projects. Natural Language Processing and Computer Vision</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalaasaeed&label=Profile%20views&color=0e75b6&style=flat" alt="aalaasaeed" /> </p>
 
